@@ -1,4 +1,4 @@
-i.icon {
+i.newspaper {
     font-size: 2em;
 }
 
@@ -8,4 +8,8 @@ i.icon {
 
 #delete {
     display: inline;
+}
+
+a:hover {
+    color: #6435c9 !important;
 }
